@@ -5,9 +5,9 @@ Cloudflare Workers + D1 implementation of the **canonical** AXIS Protocol regist
 This is the **production source** for the registry deployed at
 [`registry.axisprime.ai`](https://registry.axisprime.ai). Companion projects:
 
-- Protocol spec: [MachinesOfDesire/axis-protocol](https://github.com/MachinesOfDesire/axis-protocol)
-- Conformance suite: [MachinesOfDesire/axis-conformance](https://github.com/MachinesOfDesire/axis-conformance)
-- Reference SDK: [MachinesOfDesire/axis-protocol-sdk](https://github.com/MachinesOfDesire/axis-protocol-sdk)
+- Protocol spec: [Kipple-Labs/axis-protocol](https://github.com/Kipple-Labs/axis-protocol)
+- Conformance suite: [Kipple-Labs/axis-conformance](https://github.com/Kipple-Labs/axis-conformance)
+- Reference SDK: [Kipple-Labs/axis-protocol-sdk](https://github.com/Kipple-Labs/axis-protocol-sdk)
 
 ## Scope
 
@@ -121,8 +121,8 @@ into this repo as `docs/conformance.md` when published).
 
 ## What's NOT in this repo
 
-- The AXIS Protocol specification ([MachinesOfDesire/axis-protocol](https://github.com/MachinesOfDesire/axis-protocol))
-- The AXIS Protocol SDK ([axis-protocol-sdk](https://github.com/MachinesOfDesire/axis-protocol-sdk))
+- The AXIS Protocol specification ([Kipple-Labs/axis-protocol](https://github.com/Kipple-Labs/axis-protocol))
+- The AXIS Protocol SDK ([axis-protocol-sdk](https://github.com/Kipple-Labs/axis-protocol-sdk))
 - The AXIS Prime dashboard / UI (separate codebase)
 - The Kipple Labs registrar front-end (separate codebase)
 
